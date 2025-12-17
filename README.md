@@ -28,7 +28,33 @@ This project consists of four main React components (Frontend) and four primary 
 
 ## Technology Stack
 
-* **Frontend:** React, JavaScript JSX, Tailwind CSS (for styling and layout)
-* **Backend:** Python
-* **Version Control:** Git
+• Frontend: The web-based application is built using HTML, CSS, and JavaScript. These
+technologies were chosen for their broad browser compatibility, flexibility, and ability to create
+responsive and interactive user interfaces that enhance user engagement.
+
+
+• Backend and Server-Side Development: Python is used for backend logic, including
+server-side operations and integration with the Machine Learning model. Frameworks such as
+Flask or Django (if applicable) support handling requests, managing data, and connecting the
+frontend to the ML components.
+
+
+• Machine Learning: A Convolutional Neural Network (CNN) is implemented using
+TensorFlow/Keras. This model automatically evaluates cleanup mission photos to determine
+success, generating an ImprovementScore for reward calculations.
+
+
+• Database and Storage: SQLite or PostgreSQL (choose which you used) stores user data,
+mission details, and progress tracking, ensuring secure and efficient data management.
+
+
+• Version Control: GitHub is used for version control and project management. It allows the
+author to track changes, manage code versions, and maintain a structured development
+workflow, even as a solo developer.
+
+
+• Other Tools: Additional tools such as VS Code for coding, Postman for API testing, and Figma
+or Adobe XD for interface design (if used) helped streamline development and ensure usability.
+
+  
 
