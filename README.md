@@ -32,30 +32,3 @@ This project consists of four main React components (Frontend) and four primary 
 * **Backend:** Python
 * **Version Control:** Git
 
-## Local Setup Instructions
-
-To run this project locally, please ensure you have both Node.js (for the frontend) and Python 3 installed.
-
-### 1. Repository Setup
-
-1.  Clone the repository to your local machine:
-    ```bash
-    git clone [https://github.com/SelinkaLabekyan/Clarity-Map-App.git](https://github.com/SelinkaLabekyan/Clarity-Map-App.git)
-    cd Clarity-Map-App
-    ```
-
-### 2. Backend Setup
-
-1.  Navigate to the backend directory:
-    ```bash
-    cd backend
-    ```
-2.  *Install Python dependencies and run the server here.*
-
-### 3. Frontend Setup
-
-1.  Return to the root directory:
-    ```bash
-    cd ..
-    ```
-2.  *Install JavaScript dependencies and start the React application here.*
