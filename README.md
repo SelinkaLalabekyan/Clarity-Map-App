@@ -35,7 +35,7 @@ responsive and interactive user interfaces that enhance user engagement.
 
 • Backend and Server-Side Development: Python is used for backend logic, including
 server-side operations and integration with the Machine Learning model. Frameworks such as
-Flask or Django (if applicable) support handling requests, managing data, and connecting the
+ Django support handling requests, managing data, and connecting the
 frontend to the ML components.
 
 
@@ -54,7 +54,7 @@ workflow, even as a solo developer.
 
 
 • Other Tools: Additional tools such as VS Code for coding, Postman for API testing, and Figma
-or Adobe XD for interface design (if used) helped streamline development and ensure usability.
+or Adobe XD for interface design helped streamline development and ensure usability.
 
   
 
