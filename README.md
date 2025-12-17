@@ -2,6 +2,8 @@
 
 A full-stack application designed to map pollution zones, encourage citizen involvement in cleanup missions, and provide an administrative dashboard for verification.
 
+
+Demo video- https://youtu.be/TK5_yINoj50?si=GdY5qKgmUfNEhau4
 ## Overview & Key Features
 
 This project consists of four main React components (Frontend) and four primary Python files (Backend), working together to manage the entire cleanup lifecycle:
