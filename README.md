@@ -44,7 +44,7 @@ TensorFlow/Keras. This model automatically evaluates cleanup mission photos to d
 success, generating an ImprovementScore for reward calculations.
 
 
-• Database and Storage: SQLite or PostgreSQL (choose which you used) stores user data,
+• Database and Storage: SQLite stores user data,
 mission details, and progress tracking, ensuring secure and efficient data management.
 
 
